@@ -101,3 +101,15 @@ header {
   height: 646px;
   background: linear-gradient(270deg, rgba(241, 180, 65, 0) 35%, #F1B441 52.98%);
 }
+
+.last-section{
+  background-image: url('./Assets/lastsectionbg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* height: 70vh; */
+}
+
+.mw-6{
+  max-width: 640px;
+}
